@@ -1,0 +1,7 @@
+https://www.w3schools.com/dsa/index.php
+
+https://www.w3schools.blog/sql-syntax
+
+https://www.w3schools.com/aws/aws_cloudessentials_cloudcomputing.php
+
+https://www.geeksforgeeks.org/deploy-your-machine-learning-web-app-streamlit-on-heroku/?ref=lbp
